@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feburary 15th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Noah Abramowitz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I added the additional code inorder to calculate the expenses of any given user.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://nabramz2.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to uswe the getElementById tool.
+2. I saw how it is important to declare your divisor (total expenses) before you complete the division.
+3. I learned how to erase any uneeded code and replace it with an empty string.
 
 
 
